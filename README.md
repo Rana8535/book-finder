@@ -1,4 +1,6 @@
-# React + Vite
+# Book Finder
+
+A React application built with Vite for finding books.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
